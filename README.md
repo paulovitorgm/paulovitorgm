@@ -6,7 +6,7 @@ Estudante de analise e desenvolvimento de sistemas
 </div>
 <br>
 <div>
-
+<img scr="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
