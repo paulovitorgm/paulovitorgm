@@ -1,5 +1,5 @@
 ### <strong style="font-size: 3rem;">Paulo Vitor</strong>
-Estudante de analise e desenvolvimento de sistemas
+Formado em analise e desenvolvimento de sistemas
 <br><br>
 <div>
 <strong style="font-size: 1.3rem;">Tecnologias</strong>
